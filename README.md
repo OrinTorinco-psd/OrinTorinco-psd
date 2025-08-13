@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OrinTorinco-psd
+- 👋 Hi, I’m @OrinTorinco-psd (little "son" of @rimaturus)
 - 👀 I’m interested in autonomous driving... ehm... I'm the driver!
 - 🌱 I’m currently learning ... path following, cone detection and trying to understand where I'm.
 - 💞️ I’m looking to collaborate with ... my beloved Raspberry!
